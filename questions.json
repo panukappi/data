@@ -1,0 +1,87 @@
+[
+	{
+		"question": "Miten JavaScriptissa saa arrayn a pituuden?",
+		"answers": [
+			{
+				"answer": "length(a)",
+				"points": 0
+			},
+			{
+				"answer": "len(a)",
+				"points": 0
+			},
+			{
+				"answer": "a.length",
+				"points": 1
+			}
+		]
+	},
+	{
+		"question": "Miten luodaan muuttuja x arvolla 0 Pythonissa?",
+		"answers": [
+			{
+				"answer": "var x = 0",
+				"points": 0
+			},
+			{
+				"answer": "x = 0",
+				"points": 1
+			},
+			{
+				"answer": "int x = 0",
+				"points": 0
+			}
+		]
+	},
+    {
+		"question": "Miten Kotlinissa käydään numeroalueita läpi for-loopilla?",
+		"answers": [
+			{
+				"answer": "for (nums in range[0,10])",
+				"points": 0
+			},
+			{
+				"answer": "for (nums in 0..10)",
+				"points": 1
+			},
+			{
+				"answer": "for (nums in 0-10)",
+				"points": 0
+			}
+		]
+	},
+    {
+		"question": "Miten C#:ssa otetaan käyttäjän syöttämä luku x?",
+		"answers": [
+			{
+				"answer": "double x = input(\"Anna luku\");",
+				"points": 0
+			},
+			{
+				"answer": "double x = Console.ReadLine(\"Anna luku\");",
+				"points": 0
+			},
+			{
+				"answer": "double x = Convert.ToDouble(Console.ReadLine());",
+				"points": 1
+			}
+		]
+	},
+    {
+		"question": "Mikä on kaikista eniten käytetty ohjelmointikieli?",
+		"answers": [
+			{
+				"answer": "Python",
+				"points": 0
+			},
+			{
+				"answer": "C#",
+				"points": 0
+			},
+			{
+				"answer": "JavaScript",
+				"points": 1
+			}
+		]
+	}
+]
